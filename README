@@ -1,0 +1,16 @@
+ArcGIS Server Services Reporter for ArcGIS Server 10.0
+
+
+This AddIn for ArcGIS Desktop 10.0 is designed to report the service statistics and the data sources for all services within an ArcGIS Server 10.0 instance.It is designed and developed in visual basic .NET.
+
+All Service statistics are written to a csv into a given direcotry. A separate (csv) data report is also created for each service as well. (Map Service, GP Service, Image Service etc)
+
+The tool is deprecated at ArcGIS 10.1 because there is no longer a Server Object Manager (SOM) The ArcGIS Manager REST api can instead be scripted against in arcpy. 
+
+
+Susan Jones
+Spatial LogicLtd
+Auckland, New Zealand
+
+sjones@spatiallogic.co.nz
+http://www.spatiallogic.co.nz/
